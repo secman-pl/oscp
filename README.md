@@ -11,10 +11,12 @@ I also include links that I found useful:
 RTFM:
 
 https://jivoi.github.io/2015/07/01/pentest-tips-and-tricks/
+http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet - reverse shells
 
 PRIVILEGE ESCALATION (LINUX)
 
 https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+https://www.kernel-exploits.com/
 
 PRIVILEGE ESCALATION (WINDOWS)
 
@@ -27,6 +29,16 @@ http://netsec.ws/?p=180
 SHELLCODING
 
 http://www.vividmachines.com/shellcode/shellcode.html
+
+METASPLOIT
+
+https://www.offensive-security.com/metasploit-unleashed/portfwd/ - port forwarding
+
+http://netsec.ws/?p=331  - payloads
+
+
+
+
 
 
 
