@@ -21,6 +21,9 @@ https://www.kernel-exploits.com/
 PRIVILEGE ESCALATION (WINDOWS)
 
 http://www.fuzzysecurity.com/tutorials/16.html
+https://www.youtube.com/watch?v=kMG8IsCohHA - Encyclopaedia Of Windows Privilege Escalation - Brett Moore
+https://www.youtube.com/watch?v=_8xJaaQlpBo - Windows Attacks At Is The New Black Rob Fuller And Chris Gates
+http://www.greyhathacker.net/?p=738 - Elevating privileges by exploiting weak folder permissions
 
 BOF (WINDOWS)
 
