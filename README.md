@@ -41,6 +41,7 @@ http://netsec.ws/?p=331  - payloads
 
 OTHER USEFUL RESOURCES
 
+https://localhost.exposed/path-to-oscp/
 https://pinboard.in/u:unfo/t:oscp
 
 
