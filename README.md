@@ -39,6 +39,12 @@ https://www.offensive-security.com/metasploit-unleashed/portfwd/ - port forwardi
 
 http://netsec.ws/?p=331  - payloads
 
+OTHER USEFUL RESOURCES
+
+https://pinboard.in/u:unfo/t:oscp
+
+
+
 
 
 
