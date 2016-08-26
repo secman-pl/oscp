@@ -39,6 +39,10 @@ https://www.offensive-security.com/metasploit-unleashed/portfwd/ - port forwardi
 
 http://netsec.ws/?p=331  - payloads
 
+OVERRIDE PATH
+
+http://serverfault.com/questions/548320/override-path-to-binary-for-particular-user/548323#548323
+
 OTHER USEFUL RESOURCES
 
 https://localhost.exposed/path-to-oscp/
