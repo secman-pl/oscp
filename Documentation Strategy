@@ -1,5 +1,6 @@
 1. Working notes and screenshots into KeepNote
-2. Writing the final Pentest Report (including my tools, TTPs, finding) from the beginneing of labs
+2. Writing the final Pentest Report (including my tools, TTPs, finding) from the beginneing of labs 
+  report will be based on Offensive Security Penetration Test Report for Internal Lab and Exam https://www.offensive-security.com/pwk-online/PWKv1-REPORT.doc
 3. Writing new chapter in final Pentest Report after pwning of the machine (based on working notes from KeepNote)
 4. Collect nmap scan in the nmap format
 5. Collect network data in XLS spreadsheet
