@@ -4,5 +4,6 @@
 3. Write new chapter in final Pentest Report after pwning of the machine (based on working notes from KeepNote)
 4. Collect nmap scan in the nmap format
 5. Collect network data in XLS spreadsheet
-6. Collect data in MSF database
-7. Draw network map in ... (Maltego?)
+6. Collect data in MSF database (db_nmap)
+7. Draw network map in Armitage based on MSF database (Maltego?)
+
