@@ -5,5 +5,5 @@
 4. Collect nmap scan in the nmap format
 5. Collect network data in XLS spreadsheet
 6. Collect data in MSF database (db_nmap)
-7. Draw network map in Armitage based on MSF database (Maltego?)
+7. Draw network map in Armitage based on MSF database (or Maltego? Sparta?)
 
