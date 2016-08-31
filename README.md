@@ -12,6 +12,8 @@ RTFM:
 
 https://jivoi.github.io/2015/07/01/pentest-tips-and-tricks/
 http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet - reverse shells
+https://github.com/slyth11907/Cheatsheets
+
 
 PRIVILEGE ESCALATION (LINUX)
 
