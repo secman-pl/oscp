@@ -20,6 +20,8 @@ PRIVILEGE ESCALATION (LINUX)
 https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
 https://www.kernel-exploits.com/
 https://github.com/reider-roque/linpostexp
+https://highon.coffee/blog/linux-local-enumeration-script/
+
 
 
 PRIVILEGE ESCALATION (WINDOWS)
